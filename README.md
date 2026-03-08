@@ -74,7 +74,7 @@ For the paper, you may refer readers to the repository as follows:
 
 > The complete list of distinct extracted skill labels for Program 1 and Program 2, together with the normalization rules used, is available in the project repository (files `distinct_skill_labels.md` and `distinct_skill_labels.csv`) to support transparency and verification of the reported results.
 
-Replace “the project repository” with your actual GitHub URL (e.g. `https://github.com/yourusername/your-repo`).
+**Repo link:** https://github.com/XianghuiMeng-1020/gccce26-curriculum-skills
 
 ## License
 
