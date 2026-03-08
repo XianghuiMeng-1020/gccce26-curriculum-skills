@@ -1,0 +1,1112 @@
+[
+    {
+        "code": "BSDS3005",
+        "title": "Advanced statistical modeling for social applications",
+        "desc": "This course introduces students to the purposeful use of advanced statistical modeling methods to answer meaningful questions from complex data. Students will learn to distinguish among three purposes of modeling: (a) understanding and explaining relationships between variables through correlational analysis and causal inference; (b) discovering hidden patterns in data through unsupervised learning models; and (c) predicting future outcomes by building and evaluating supervised learning models. Through this course, students will engage in hands-on exercises and develop the ability to choose, apply, and interpret statistical models with real-world datasets.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Statistical Modeling",
+                "Correlational Analysis",
+                "Causal Inference",
+                "Unsupervised Learning",
+                "Supervised Learning",
+                "Data Interpretation"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4018",
+        "title": "Data warehousing and data mining",
+        "desc": "This course aims to introduce the challenges and solutions of discovering and extracting organizational information from heterogeneous sources through the use of data warehousing and data mining techniques. Topics include the motivation for and the processes of data warehousing, data warehouse architecture and design, online analytical processing, as well as concepts and techniques of data mining. Ethics and personal privacy issues in data mining are also addressed.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Data Warehousing",
+                "Data Mining",
+                "Data Warehouse Architecture",
+                "Online Analytical Processing"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSDS3001",
+        "title": "Social data science foundations",
+        "desc": "This course introduces foundations of social data science and provides an overview of the current issues that are challenging to the field. Students will explore how large-scale social data can be studied and analyzed in order to take an interdisciplinary approach integrating the relevant disciplines to address social issues or challenges. Methods of inquiry and research in social data science will be discussed to prepare students' further study in developing interdisciplinary solutions to social and policy issues.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Data Analysis",
+                "Research Methods",
+                "Interdisciplinary Solutions Development"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Problem Solving"
+            ]
+        }
+    },
+    {
+        "code": "SDST2604",
+        "title": "Introduction to R/Python programming and elementary data analysis",
+        "desc": "This course is designed to provide a first-level introduction to Python programming for statistics. This course focuses on learning the basic programming skills in Python with examples and applications in elementary statistical analysis. The programming skills involved can be applied to input and output of data sets, work with different data types, manipulation and transformation of data, random sampling, descriptive data analysis, and production of professional summary reports with high-quality graphs.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "Python"
+            ],
+            "hard_skills": [
+                "Statistical Analysis",
+                "Data Manipulation",
+                "Data Transformation",
+                "Random Sampling",
+                "Descriptive Data Analysis",
+                "Report Production",
+                "Graph Production"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM3017",
+        "title": "Database systems",
+        "desc": "This course aims to introduce fundamental concepts of database management systems, with an emphasis on the relational database model and applications in information agencies. Topics include the motivation for database systems, data modeling, principles of database design, data definition and manipulation languages. Support for procedural database objects in Structured Query Language (SQL) is also introduced.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "SQL"
+            ],
+            "hard_skills": [
+                "Database Management",
+                "Relational Database Model",
+                "Data Modeling",
+                "Database Design",
+                "Data Definition",
+                "Data Manipulation"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM3021",
+        "title": "Web development, users and management",
+        "desc": "This course covers basic principles of web design and development from technical, user, and management perspectives. It aims to develop an understanding of web-related technologies and user behaviour in such environments and of best practice in the creation, organization, and maintenance of such websites through studying and practising relevant theories.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Web Design",
+                "Web Development",
+                "Website Maintenance"
+            ],
+            "soft_skills": [
+                "Understanding User Behavior",
+                "Management"
+            ]
+        }
+    },
+    {
+        "code": "BSIM3025",
+        "title": "Multimedia and human-computer interaction",
+        "desc": "The course provides a general introduction to the theory and practice of multimedia information systems. We will explore how to design and develop multimedia information systems that account for the principles of human information processing, sensation, perception, cognition, interaction, and learning. This course focuses on developing systems in an online environment, but the principles should apply to every information system that interacts with people. You will gain theoretical background and practical experience to design, innovate, and critique digital multimedia information systems.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "System Design",
+                "Human Information Processing",
+                "Interaction Design",
+                "Cognition",
+                "Multimedia Information Systems Development"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Innovation"
+            ]
+        }
+    },
+    {
+        "code": "BSDS3002",
+        "title": "Social computing: methods and applications",
+        "desc": "Social computing employs computational approaches and social analytics to study social behaviour in a broader context. This course is aimed to develop an understanding of social computing from an interdisciplinary perspective. Concepts and theories related to social computing applications are introduced from fields such as social psychology, sociology, business, and communication. Methods of computational models and social analytics including network analysis and collaborative filtering are covered in this course. The applications of social computing in supporting and exploring organizational and individual behaviour are discussed in depth.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Network Analysis",
+                "Collaborative Filtering",
+                "Social Analytics",
+                "Computational Models"
+            ],
+            "soft_skills": [
+                "Interdisciplinary Understanding",
+                "Communication",
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4011",
+        "title": "Project management",
+        "desc": "This course introduces the project life cycle and the techniques and change management aspects of managing, planning, and implementing successful projects in organizations. Conceptual foundations are the focus so students can use project management software effectively. General management and communication skills are explored in the context of project manager communication with project teams, clients, and other stakeholders.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Project Management",
+                "Change Management",
+                "Planning"
+            ],
+            "soft_skills": [
+                "General Management",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "code": "BSDS3004",
+        "title": "Introduction to statistics",
+        "desc": "This course introduces the most commonly used statistical methods in educational and social science research. Topics covered in this course include descriptive statistics, graphical representations, correlation, regression, basic probability, sampling distributions, confidence intervals, one- and two-sample t-tests, chi-square test, and one-way analysis of variance. This course also introduces how to use contemporary software (e.g. SPSS and Python) for the basic data analysis.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "SPSS",
+                "Python"
+            ],
+            "hard_skills": [
+                "Descriptive Statistics",
+                "Graphical Representations",
+                "Correlation",
+                "Regression",
+                "Basic Probability",
+                "Sampling Distributions",
+                "Confidence Intervals",
+                "T-Tests",
+                "Chi-Square Test",
+                "One-Way Analysis of Variance",
+                "Data Analysis"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSDS3003",
+        "title": "Data processing and visualization",
+        "desc": "This course provides an in-depth exploration of data processing and visualization techniques, teaching students how to develop comprehensive data strategies for generating, collecting, and consuming data. Key topics include data collection and ingestion, data cleaning and pre-processing, data transformation and feature engineering, and data visualization. Through a series of hands-on practices, students will grasp the foundations of building end-to-end data pipelines, and the essential skills needed in exploring, analyzing, and communicating data-driven insights in social data science projects. Prerequisite: Basic knowledge of Python programming is needed.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "Python"
+            ],
+            "hard_skills": [
+                "Data Processing",
+                "Data Visualization",
+                "Data Collection",
+                "Data Ingestion",
+                "Data Cleaning",
+                "Data Pre-processing",
+                "Data Transformation",
+                "Feature Engineering",
+                "Building End-to-End Data Pipelines",
+                "Exploring Data",
+                "Analyzing Data",
+                "Communicating Data-Driven Insights"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4024",
+        "title": "Fundamentals of object-oriented programming",
+        "desc": "This course aims to equip students with basic concepts of object-oriented programming and practical knowledge for designing and implementing simple software applications through an object-oriented programming language. In addition to basic programming constructs such as control statements, basic data structures and algorithms are also introduced.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Object-Oriented Programming",
+                "Software Design",
+                "Software Implementation",
+                "Basic Data Structures",
+                "Algorithms"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4020",
+        "title": "Information society issues and policy",
+        "desc": "The course examines the link between information society issues and the need for information policies that address these issues. Issues including intellectual property rights and copyright, privacy and freedom of access to information, information and culture, technology and culture, and societal needs and demands for information are explored. Information policies and the policy development process are addressed at macro and micro levels. At the completion of this course, participants will be able to identify the need for information policies, critique existing information policies, and develop information policies at the organizational level.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Development",
+                "Policy Analysis",
+                "Critiquing Policies"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4028",
+        "title": "Principles and practice of data visualization",
+        "desc": "In the era of big data, data visualization plays a crucial role in information management. It translates information into a visual context, making it easier to identify patterns and trends, and ultimately helping decision-makers gain insights from large and complex data sets. Interactive data visualizations and dashboards also assist organizations in monitoring their performance, enabling them to identify and respond to various issues effectively. This course aims to introduce students to the principles and practice of data visualization. Students will learn fundamental principles, theories, and rules of data visualization. Students are given opportunities to prepare data sets and apply related principles to create visuals and dashboards using drag-and-drop visualization tools (e.g. Tableau, Qlik or Power BI). A variety of chart types (e.g. comparing categories, time/trend, distributions, relationship and composition) will be introduced. The importance of ethical practice in data visualization is also emphasized.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "Tableau",
+                "Qlik",
+                "Power BI"
+            ],
+            "hard_skills": [
+                "Data Visualization",
+                "Dashboard Creation",
+                "Data Preparation",
+                "Chart Design",
+                "Ethical Practice in Data Visualization"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4019",
+        "title": "Electronic commerce",
+        "desc": "This course examines organizational and technological issues related to E-Commerce. Topics include business models for B2B or B2C E-commerce, E-commerce strategies for business, technology infrastructure for E-commerce system development, information privacy and security, and emerging topics such as Mobile Commerce and Web 2.0 Commerce.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "E-commerce strategies",
+                "Technology infrastructure",
+                "Information privacy",
+                "Information security",
+                "Mobile Commerce",
+                "Web 2.0 Commerce"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "MLIM7350",
+        "title": "Data curation",
+        "desc": "This course discusses all aspects of data curation principles and best practices. The goal is to prepare students in data planning, management, documentation, preservation and sharing in all organizations with complex digital environments. This course is complementary to courses in data analysis and database management. Topics covered in this course include: overview of data management, data management life cycles; data management plans in the context of sponsored projects, risk and sustainability; standards and tools for data storage, access and security; metadata standards and design in context; data sharing and reuse; legal and ethical considerations.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Data Planning",
+                "Data Management",
+                "Data Documentation",
+                "Data Preservation",
+                "Data Sharing",
+                "Data Storage",
+                "Data Access",
+                "Data Security",
+                "Metadata Standards",
+                "Metadata Design",
+                "Legal and Ethical Considerations"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4027",
+        "title": "Selected topics in information management",
+        "desc": "Students will learn contemporary topics in information management (IM) not covered in regular courses in the curriculum, emphasizing current issues, challenges, methodologies, and/or applications under the current globalized knowledge economy. After completing this course, students will understand some current topics of information management to facilitate their future careers or studies, particularly as an information professional, educator, or manager. A variety of examples and case studies will be given concerning different context of information management.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Information Management",
+                "Case Study Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Problem Solving",
+                "Adaptability"
+            ]
+        }
+    },
+    {
+        "code": "MLIM6319",
+        "title": "Information behavior",
+        "desc": "This course introduces the essential concepts, theories, and models of information behaviour, as well as the critical reflections on the usage of digital technologies in facilitating information behaviour in both social and organizational settings. Research methods and network analysis for studying information behaviour will also be introduced in this course. In doing so, this course aims to orient students with a comprehensive set of conceptual and theoretical knowledge associated with information behaviour.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Research Methods",
+                "Network Analysis"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "GEOG2152",
+        "title": "Health and medical geography",
+        "desc": "This course introduces students to the history, theories and methods of the Health and Medical Geography subfield. We will explore topics from the perspective of health equity. Topics include tools of the field, social, biologic and spatial determinants of health, urban and rural health, the health transition and chronic disease, and climate change and health. This course will incorporate discussions on current, regional events to highlight the importance of various geographic aspects to understanding the many dimensions of health.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Health Equity Analysis",
+                "Geographic Analysis",
+                "Spatial Determinants of Health"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Discussion"
+            ]
+        }
+    },
+    {
+        "code": "GEOG2090",
+        "title": "Introduction to geographic information systems",
+        "desc": "This course introduces students to the computer-assisted techniques of geographic data analysis, collectively known as GIS, which involve the overlaying and merging of spatial data layers. The principles of such an approach will be discussed focusing on the nature of spatial data, raster and vector data structures, GPS data collection, data transformation and geocoding, and spatial overlay techniques. Students must complete five simple exercises involving the application of GIS concepts in real-life situations.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "GIS",
+                "GPS"
+            ],
+            "hard_skills": [
+                "Geographic Data Analysis",
+                "Spatial Data Transformation",
+                "Geocoding",
+                "Spatial Overlay Techniques"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "GEOG3417",
+        "title": "Health, wellbeing, place and GIS",
+        "desc": "This course explores how GIS is used to address and analyze pressing health problems from the geographical perspective. It covers such topics as theoretical and practical issues, simple disease mapping, disease pattern analysis, and environmental association through spatial modeling techniques. The course will be conducted in a series of lectures and hands-on practices (six computer-based exercises) in a problem-based learning environment. Students will design and implement spatial analysis and statistical approaches on a health outcome topic that is demonstrated during the semester.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "GIS"
+            ],
+            "hard_skills": [
+                "Disease Mapping",
+                "Disease Pattern Analysis",
+                "Spatial Modeling",
+                "Spatial Analysis",
+                "Statistical Approaches"
+            ],
+            "soft_skills": [
+                "Problem-Based Learning"
+            ]
+        }
+    },
+    {
+        "code": "GEOG1020",
+        "title": "Modern maps in the age of big data",
+        "desc": "Maps have been widely used in our everyday work-life activities, while modern maps, such as photo-realistic streetscape maps available on the Internet and dynamic/interactive maps with changing 3D views, which are made possible with big data... This course introduces the main features of modern maps, the characteristics of big data, the opportunities and challenges, and the basic principles for producing and applying modern maps in the age of big data.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Big Data Analysis",
+                "Map Production",
+                "Modern Map Application"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "SOWK2023",
+        "title": "Social policy issues in Hong Kong",
+        "desc": "This course examines the issues of social policy in Hong Kong including privatization of welfare services, the impact of welfare ideology on the state of development in Hong Kong, the issue of equity and equality in welfare provision, community care and service needs of the new arrivals from the mainland. Different theories of welfare will be discussed in relation to local welfare issues.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "PSYC2071",
+        "title": "Judgements and decision making",
+        "desc": "To understand the psychological factors involved with human judgment and decision making. We will contrast human decision making with normative theories of rational choice, and survey psychological evidence of systematic decision biases and errors in judgments. We will discuss the heuristics and biases approach to judgment and decision errors, and critiques of this approach. Real world examples will be presented from the domains of medicine, economics, and consumer choice.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Decision Making",
+                "Judgment Analysis",
+                "Heuristics Analysis",
+                "Bias Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Analytical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "POLI3039",
+        "title": "Public policy analysis",
+        "desc": "This is an introductory course to public policy analysis with an emphasis on the production of advice for decision-makers. This course builds foundations of public policy analysis by covering related theories and concepts. Having answered why we need government intervention in solving public policy problems, this course also seeks to equip students with skills and techniques to analyze, design, and assess policy options.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Analysis",
+                "Policy Design",
+                "Policy Assessment"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "SOCI2080",
+        "title": "Media and culture in modern societies",
+        "desc": "This course introduces key thinkers, traditions and current debates in media and cultural studies and explores the central role of media and culture in contemporary social life. It enables students to understand media and culture as institution, practice, representation, production and consumption, and creativity. Topics include: (a) the rise of the mass entertainment industries and their influence on social behaviour; (b) the role of consumption in maintaining and creating new social identities and status hierarchy; (c) the search for fantasies in advertisement; (d) new regimes of body management and their impact on gender relations; (e) the reclaiming of gender, sexual and cultural identities; and (f) the various emerging forms of cultural politics and local activism.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Media Analysis",
+                "Cultural Studies",
+                "Social Behavior Analysis",
+                "Identity Studies",
+                "Cultural Politics"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Understanding Social Dynamics",
+                "Analytical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "SOWK3091",
+        "title": "Mental health sciences and society",
+        "desc": "This course brings together cutting-edge knowledge and discussions on mental health from diverse but related disciplines of philosophy, psychology, psychiatry, epidemiology, and social and healthcare services administration, both in the unique local context and in the international mental health scene. Students will be introduced to the critical examination of theories and practices in mental health with real-world examples... Using the conventional disease/medical model as a starting point, students will be guided to understand mental health in the broader context of biological, psychological, social and cultural factors...",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Critical Examination",
+                "Theoretical Analysis",
+                "Interdisciplinary Knowledge"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Understanding Diverse Perspectives"
+            ]
+        }
+    },
+    {
+        "code": "POLI3080",
+        "title": "Global political economy",
+        "desc": "This course explores the political dimensions of global economic relations. The objectives of this course are to give students a better appreciation of major problems and dilemmas of contemporary global economy and to provide a conceptual framework for addressing policy problems in the global economy. We begin by examining several contending perspectives on global political economy. The course then examines distinct issue areas: globalization, development, trade, capital flows, financial crises, multinational production, environmental degradation, world hunger, and the transnational movement of people.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "POLI3131",
+        "title": "In search of good policy: an introduction to policy evaluation",
+        "desc": "This course provides an introduction to rigorous policy evaluation. The main objective of this course is to familiarize students with a wide range of quantitative methods that are increasingly used to evaluate public policy and inform policy-making. Students will begin by reflecting on the interaction between statistics, policy analysis and decision-making. This will be followed by an introduction to the fundamental concepts underlying quantitative evaluation methods. The remainder of the course will focus on understanding the theory and application of policy evaluation methodologies, including randomized experiments, instrumental variable analysis, matching methods and difference-in-differences.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Evaluation",
+                "Quantitative Methods",
+                "Randomized Experiments",
+                "Instrumental Variable Analysis",
+                "Matching Methods",
+                "Difference-in-Differences",
+                "Statistics",
+                "Policy Analysis"
+            ],
+            "soft_skills": [
+                "Decision-Making"
+            ]
+        }
+    },
+    {
+        "code": "SOWK2131",
+        "title": "Behavioural economics for social change",
+        "desc": "This course will examine the relationship between behavioural economics and social change. Individuals frequently make decisions that systematically depart from the predictions of standard economic models based on a purely rational model. Behavioral economics attempts to integrate the understanding of the psychology of human behavior into economic and policy analysis. The course will review the major themes of behavioral economics and address the implications for social policy and social change in a wide variety of domains, including social security, health care, labour, education and social welfare programmes.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Analysis",
+                "Economic Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "SDST3617",
+        "title": "Sample survey methods",
+        "desc": "This course will cover design and implementation of sample surveys and analysis of statistical data thus obtained. Survey design includes overall survey design, design of sampling schemes and questionnaires, etc. Sampling methods include sample size determination, sampling and non-sampling errors and biases, methods of estimation of parameters from survey data, imputation for missing data etc.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Survey Design",
+                "Sampling Schemes",
+                "Questionnaire Design",
+                "Sample Size Determination",
+                "Estimation of Parameters",
+                "Imputation for Missing Data"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "SDST2605",
+        "title": "Demographic and socio-economic statistics",
+        "desc": "The course covers the major methods for studying demographic and socio-economic statistics, with a quantitative evidence-based approach to understand the socio-economic well-being of residents in a territory. The course aims to provide students with (a) essential underlying principles and the pertinent methods behind internationally adopted statistical indicators; and (b) skills in the statistical descriptions and further analysis for application to planning, policy-making and commercial endeavours of a territory.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Statistical Analysis",
+                "Quantitative Methods",
+                "Demographic Statistics",
+                "Socio-economic Statistics",
+                "Policy Analysis",
+                "Planning"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "SDST4011",
+        "title": "Natural language processing",
+        "desc": "Natural language processing (NLP) is a subfield of artificial intelligence, focusing on understanding human language. In essence, NLP is interested in building a tool that can use language like humans. This course will introduce the mathematical, statistical and computational challenges in natural language processing. It covers main applications of NLP techniques and a range of models in structured prediction and deep learning. In this course, students will gain a thorough introduction to cutting-edge machine learning and deep learning techniques for NLP.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Natural Language Processing",
+                "Machine Learning",
+                "Deep Learning",
+                "Structured Prediction",
+                "Statistical Analysis",
+                "Computational Modeling"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "SDST3612",
+        "title": "Statistical machine learning",
+        "desc": "Machine learning is the study of computer algorithms that build models of observed data in order to make predictions or decisions. Statistical machine learning emphasizes the importance of statistical methodology in the algorithmic development. This course provides a comprehensive and practical coverage of essential machine learning concepts and a variety of learning algorithms under supervised and unsupervised settings.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Machine Learning",
+                "Statistical Methodology",
+                "Supervised Learning",
+                "Unsupervised Learning"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSDS3999",
+        "title": "Internship",
+        "desc": "Students will apply what they learn from their academic studies into real-life situations by working on social data science related projects through internship experience in an organization. The course provides opportunities for the application of social data science knowledge and techniques to practical situations.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Social Data Science"
+            ],
+            "soft_skills": [
+                "Application of Knowledge",
+                "Practical Problem-Solving"
+            ]
+        }
+    },
+    {
+        "code": "SDST4609",
+        "title": "Big data analytics",
+        "desc": "In the past decade, huge volume of data with highly complicated structure has appeared in every aspect, such as social web logs, e-mails, video, speech recordings, photographs, tweets and others. The efficient extraction of valuable information from these data sources becomes a challenging task. This course focuses on the practical knowledge and skills of some advanced analytics and statistical modeling for solving big data problems.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Advanced Analytics",
+                "Statistical Modeling"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "SDST3622",
+        "title": "Data visualization",
+        "desc": "This course will focus on how to work with statistical graphics, graphics that display statistical data, to communicate and analyze data. Students will learn a set of tools such as R to create these graphics and critically evaluate them.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [
+                "R"
+            ],
+            "hard_skills": [
+                "Statistical Graphics",
+                "Data Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "SDST4601",
+        "title": "Time-series analysis",
+        "desc": "A time series consists of a set of observations on a random variable taken over time. Time series arise naturally in climatology, economics, environment studies, finance and many other disciplines. The observations in a time series are usually correlated; the course establishes a framework to discuss this. This course distinguishes different type of time series, investigates various representations for the processes and studies the relative merits of different forecasting procedures. Students will analyze real time-series data on the computer.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Time Series Analysis",
+                "Forecasting",
+                "Data Analysis"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "CAES9420",
+        "title": "Academic English for information management and social data science students",
+        "desc": "This one-semester, 6-credit English course will provide the opportunity for information management students and social data science students to develop their report writing and oral presentation skills for disciplinary studies and academic purposes. Students are required to identify an issue relevant to their discipline and undertake a small-scale research project to investigate the problem issue and communicate an argument to an academic audience in writing with appropriate organizational and rhetorical skills. During the process, students need to gather data by means of an interview, perform analysis on the information they obtain, and present their findings orally and in formal report writing.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Report Writing",
+                "Oral Presentation",
+                "Data Gathering",
+                "Interviewing",
+                "Information Analysis"
+            ],
+            "soft_skills": [
+                "Communication",
+                "Organizational Skills",
+                "Rhetorical Skills",
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "SDST3613",
+        "title": "Marketing analytics",
+        "desc": "This course is designed to provide an overview and practical application of trends, technology and methodology used in the marketing survey process including problem formulation, survey design, data collection and analysis, and report writing. Special emphasis will be put on statistical techniques particularly for analyzing marketing data including market segmentation, market response models, consumer preference analysis and conjoint analysis. Students will analyze a variety of marketing case studies.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Survey Design",
+                "Data Collection",
+                "Data Analysis",
+                "Report Writing",
+                "Statistical Techniques",
+                "Market Segmentation",
+                "Market Response Models",
+                "Consumer Preference Analysis",
+                "Conjoint Analysis"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSDS4999",
+        "title": "Project",
+        "desc": "Students will learn basic research methods and skills in doing a project for social data science. Topics including key elements of a research project, steps of the research process, and quantitative and qualitative research methods are introduced in lectures. Students then complete a substantial final year project under supervision.",
+        "program": "BASc(SDS)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Research Methods",
+                "Quantitative Research",
+                "Qualitative Research",
+                "Project Management"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "code": "BSIM3017",
+        "title": "Database systems",
+        "desc": "This course aims to introduce fundamental concepts of database management systems, with an emphasis on the relational database model and applications in information agencies. Topics include the motivation for database systems, data modeling, principles of database design, data definition and manipulation languages. Support for procedural database objects in Structured Query Language (SQL) is also introduced.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [
+                "SQL"
+            ],
+            "hard_skills": [
+                "Database Management",
+                "Relational Database Model",
+                "Data Modeling",
+                "Database Design",
+                "Data Definition Languages",
+                "Data Manipulation Languages"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM3998",
+        "title": "Professional practices in information management",
+        "desc": "This course is designed to supplement regular classes with seminars of contemporary professional information management (IM) practice in the real world in order to prepare them for their internship and professional work after graduation, as well as to demonstrate leadership to the students from related professionals. Students are exposed to contemporary IM practices and leadership through seminars given by professionals and academics, as well as group discussions with them. After completing this course, students will understand contemporary IM practice and a sense of leadership required.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Information Management"
+            ],
+            "soft_skills": [
+                "Leadership",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "code": "BSIM3001",
+        "title": "Information management foundations",
+        "desc": "This course introduces the literature of librarianship and information management and provides an overview of the properties of information and knowledge, the information landscape and the historical, current, and potential roles of libraries and information agencies. Information process models will be analysed to surface key issues in the transfer of information, and demonstrate the relationship between information processes such as collection, organisation, access, and delivery of information. Approaches to needs analysis will be explored.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Information Management",
+                "Needs Analysis",
+                "Information Process Modeling",
+                "Collection Management",
+                "Information Organization",
+                "Information Access",
+                "Information Delivery"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM3004",
+        "title": "Information retrieval",
+        "desc": "This course introduces and explores information retrieval principles, techniques and strategies applied to electronic information sources, methods for evaluating databases, and information literacy frameworks. Information literacy issues including the nature of information, the nature of the autonomous learner and user needs, information seeking behavior, mediated searching, and evaluation of retrieved information are discussed. At the completion of this course, participants will have an enhanced understanding of information literacy, and improved information seeking ability, and understanding of mediated search provision.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Information Retrieval",
+                "Database Evaluation",
+                "Information Literacy",
+                "Mediated Searching",
+                "Information Seeking Behavior"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Understanding User Needs"
+            ]
+        }
+    },
+    {
+        "code": "BSIM3023",
+        "title": "Information organisation and content management",
+        "desc": "This course examines the theories and approaches for information organisation and content management in libraries and other environments. Basic concepts and theories of metadata together with a number of metadata schemas and standards for representing, retrieving and organising information and content in various applications are introduced. The emphasis is on the design and implementation of metadata applications for information organisation and content management in digital and web-based environments.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Metadata Design",
+                "Metadata Implementation",
+                "Information Organisation",
+                "Content Management"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM3999",
+        "title": "Internship",
+        "desc": "Students will apply what they learn from their academic studies into real-life situations by working on information management related projects through a summer internship experience in an organisation. The course provides opportunities for the application of information management theories to practical situations.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Information Management"
+            ],
+            "soft_skills": [
+                "Application of Knowledge",
+                "Practical Problem Solving"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4999",
+        "title": "Project",
+        "desc": "Students will learn basic research methods and skills in doing a project for information management. Topics including key elements of a research project, steps of the research process, and quantitative and qualitative research methods are introduced in lectures. Students then complete a substantial final year project under supervision.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Research Methods",
+                "Quantitative Research",
+                "Qualitative Research",
+                "Information Management"
+            ],
+            "soft_skills": [
+                "Project Management"
+            ]
+        }
+    },
+    {
+        "code": "BSIM3014",
+        "title": "User-based systems analysis",
+        "desc": "This course introduces students to the evaluation and design of information systems (IS). IS development processes, development technologies and issues affecting IS development will be examined and discussed including usability and human factors. Emphasis will be given to selected IS phases including requirements analysis and system modeling. Selected features of modeling tools like the Unified Modeling Language (UML) will be introduced.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [
+                "Unified Modeling Language"
+            ],
+            "hard_skills": [
+                "Information Systems Design",
+                "Requirements Analysis",
+                "System Modeling",
+                "Usability",
+                "Human Factors"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4011",
+        "title": "Project management",
+        "desc": "This course introduces the project life cycle and the techniques and change management aspects of managing, planning, and implementing successful projects in organisations. Conceptual foundations are the focus so students can use project management software effectively. General management and communication skills are explored in the context of project manager communication with project teams, clients, and other stakeholders.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Project Management",
+                "Change Management",
+                "Planning"
+            ],
+            "soft_skills": [
+                "Communication",
+                "General Management"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4026",
+        "title": "Introduction to statistics and quantitative data analysis",
+        "desc": "The course aims at providing essential probability and statistics knowledge for students to explore and solve problems in information management. This course will familiarise students with necessary statistical theories, concepts and techniques to prepare them for effective academic and professional practice in analysing quantitative data. Topics include probability, estimation, descriptive statistics, normal distribution, non-parametric models, summarising and visualising data, hypothesis testing, and regression.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Probability",
+                "Estimation",
+                "Descriptive Statistics",
+                "Normal Distribution",
+                "Non-parametric Models",
+                "Summarising Data",
+                "Visualising Data",
+                "Hypothesis Testing",
+                "Regression"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4020",
+        "title": "Information society issues and policy",
+        "desc": "The course examines the link between information society issues and the need for information policies that address these issues. Issues including intellectual property rights and copyright, privacy and freedom of access to information, information and culture, technology and culture, and societal needs and demands for information are explored. Information policies and the policy development process are addressed at macro and micro levels. At the completion of this course, participants will be able to identify the need for information policies, critique existing information policies, and develop information policies at the organisational level.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Policy Development",
+                "Policy Analysis",
+                "Critiquing Information Policies"
+            ],
+            "soft_skills": [
+                "Critical Thinking"
+            ]
+        }
+    },
+    {
+        "code": "BSIM3025",
+        "title": "Multimedia and human-computer interaction",
+        "desc": "The course provides a general introduction to the theory and practice of multimedia information systems. We will explore how to design and develop multimedia information systems that account for the principles of human information processing, sensation, perception, cognition, interaction, and learning. This course focuses on developing systems in an online environment, but the principles should apply to every information system that interacts with people. You will gain theoretical background and practical experience to design, innovate, and critique digital multimedia information systems.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "System Design",
+                "Multimedia Information Systems Development",
+                "Human Information Processing"
+            ],
+            "soft_skills": [
+                "Innovation",
+                "Critique",
+                "Interaction"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4028",
+        "title": "Principles and practice of data visualisation",
+        "desc": "In the era of big data, data visualisation plays a crucial role in information management. It translates information into a visual context, making it easier to identify patterns and trends, and ultimately helping decision-makers gain insights from large and complex data sets. Interactive data visualisations and dashboards also assist organisations in monitoring their performance, enabling them to identify and respond to various issues effectively. This course aims to introduce students to the principles and practice of data visualisation. Students will learn fundamental principles, theories, and rules of data visualisation. Students are given opportunities to prepare data sets and apply related principles to create visuals and dashboards using drag-and-drop visualisation tools (e.g., Tableau, Qlik or Power BI). A variety of chart types (e.g., comparing categories, time/trend, distributions, relationship and composition) will be introduced. The importance of ethical practice in data visualisation is also emphasised.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [
+                "Tableau",
+                "Qlik",
+                "Power BI"
+            ],
+            "hard_skills": [
+                "Data Visualisation",
+                "Dashboard Creation",
+                "Data Preparation",
+                "Chart Design",
+                "Ethical Practice in Data Visualisation"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM3021",
+        "title": "Web development, users and management",
+        "desc": "This course covers basic principles of web design and development from technical, user, and management perspectives. It aims to develop an understanding of web-related technologies and user behaviour in such environments and of best practice in the creation, organisation, and maintenance of such websites through studying and practising relevant theories.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Web Design",
+                "Web Development",
+                "User Behavior Analysis",
+                "Website Maintenance"
+            ],
+            "soft_skills": [
+                "Understanding User Perspectives",
+                "Best Practice Implementation"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4019",
+        "title": "Electronic commerce",
+        "desc": "This course examines organisational and technological issues related to E-Commerce. Topics include business models for B2B or B2C E-commerce, E-commerce strategies for business, technology infrastructure for E-commerce system development, information privacy and security, and emerging topics such as Mobile Commerce and Web 2.0 Commerce.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "E-commerce system development",
+                "Information privacy",
+                "Information security",
+                "Mobile Commerce",
+                "Web 2.0 Commerce"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4018",
+        "title": "Data warehousing and data mining",
+        "desc": "This course aims to introduce the challenges and solutions of discovering and extracting organisational information from heterogeneous sources through the use of data warehousing and data mining techniques. Topics include the motivation for and the processes of data warehousing, data warehouse architecture and design, online analytical processing, as well as concepts and techniques of data mining. Ethics and personal privacy issues in data mining are also addressed.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Data Warehousing",
+                "Data Mining",
+                "Data Warehouse Architecture",
+                "Online Analytical Processing"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "BSIM4027",
+        "title": "Selected topics in information management",
+        "desc": "Students will learn contemporary topics in information management (IM) not covered in regular courses in the curriculum, emphasising current issues, challenges, methodologies, and/or applications under the current globalised knowledge economy. After completing this course, students will understand some current topics of information management to facilitate their future careers or studies, particularly as an information professional, educator, or manager. A variety of examples and case studies will be given concerning different context of information management.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Information Management",
+                "Case Study Analysis"
+            ],
+            "soft_skills": [
+                "Critical Thinking",
+                "Problem Solving",
+                "Adaptability"
+            ]
+        }
+    },
+    {
+        "code": "BSIM4024",
+        "title": "Fundamentals of object-oriented programming",
+        "desc": "This course aims to equip students with basic concepts of object-oriented programming and practical knowledge for designing and implementing simple software applications through an object-oriented programming language. In addition to basic programming constructs such as control statements, basic data structures and algorithms are also introduced.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Object-Oriented Programming",
+                "Software Design",
+                "Software Implementation",
+                "Control Statements",
+                "Data Structures",
+                "Algorithms"
+            ],
+            "soft_skills": []
+        }
+    },
+    {
+        "code": "CAES9420",
+        "title": "Academic English for information management and social data science students",
+        "desc": "This one-semester, 6-credit English course will provide the opportunity for Information Management students and Social Data Science students to develop their report writing and oral presentation skills for disciplinary studies and academic purposes. Students are required to identify an issue relevant to their discipline and undertake a small-scale research project to investigate the problem issue and communicate an argument to an academic audience in writing with appropriate organisational and rhetorical skills. During the process, students need to gather data by means of an interview, perform analysis on the information they obtain, and present their findings orally and in formal report writing. The course will allow students to practice relevant English language skills in their Final Year Project/ Capstone Experience courses.",
+        "program": "BSc(IM)",
+        "skills": {
+            "tools": [],
+            "hard_skills": [
+                "Report Writing",
+                "Oral Presentation",
+                "Data Gathering",
+                "Interviewing",
+                "Data Analysis",
+                "Formal Report Writing"
+            ],
+            "soft_skills": [
+                "Communication",
+                "Organizational Skills",
+                "Rhetorical Skills"
+            ]
+        }
+    }
+]

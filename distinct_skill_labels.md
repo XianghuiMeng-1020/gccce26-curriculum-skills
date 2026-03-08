@@ -1,0 +1,303 @@
+# Distinct Extracted Skill Labels by Program
+
+- These labels were extracted from official course descriptions.
+- Within each program, labels were normalized by lowercasing and stripping whitespace.
+- The lists are provided to support transparency and checking of the paper results.
+
+## Program 1
+
+**Total distinct skill labels:** 188
+
+- adaptability
+- advanced analytics
+- algorithms
+- analytical thinking
+- analyzing data
+- application of knowledge
+- basic data structures
+- basic probability
+- bias analysis
+- big data analysis
+- building end-to-end data pipelines
+- case study analysis
+- causal inference
+- change management
+- chart design
+- chi-square test
+- cognition
+- collaborative filtering
+- communicating data-driven insights
+- communication
+- computational modeling
+- computational models
+- confidence intervals
+- conjoint analysis
+- consumer preference analysis
+- correlation
+- correlational analysis
+- critical examination
+- critical thinking
+- critiquing policies
+- cultural politics
+- cultural studies
+- dashboard creation
+- data access
+- data analysis
+- data cleaning
+- data collection
+- data definition
+- data documentation
+- data gathering
+- data ingestion
+- data interpretation
+- data management
+- data manipulation
+- data mining
+- data modeling
+- data planning
+- data pre-processing
+- data preparation
+- data preservation
+- data processing
+- data security
+- data sharing
+- data storage
+- data transformation
+- data visualization
+- data warehouse architecture
+- data warehousing
+- database design
+- database management
+- decision making
+- decision-making
+- deep learning
+- demographic statistics
+- descriptive data analysis
+- descriptive statistics
+- difference-in-differences
+- discussion
+- disease mapping
+- disease pattern analysis
+- e-commerce strategies
+- economic analysis
+- estimation of parameters
+- ethical practice in data visualization
+- exploring data
+- feature engineering
+- forecasting
+- general management
+- geocoding
+- geographic analysis
+- geographic data analysis
+- gis
+- gps
+- graph production
+- graphical representations
+- health equity analysis
+- heuristics analysis
+- human information processing
+- identity studies
+- imputation for missing data
+- information analysis
+- information management
+- information privacy
+- information security
+- innovation
+- instrumental variable analysis
+- interaction design
+- interdisciplinary knowledge
+- interdisciplinary solutions development
+- interdisciplinary understanding
+- interviewing
+- judgment analysis
+- legal and ethical considerations
+- machine learning
+- management
+- map production
+- market response models
+- market segmentation
+- matching methods
+- media analysis
+- metadata design
+- metadata standards
+- mobile commerce
+- modern map application
+- multimedia information systems development
+- natural language processing
+- network analysis
+- object-oriented programming
+- one-way analysis of variance
+- online analytical processing
+- oral presentation
+- organizational skills
+- planning
+- policy analysis
+- policy assessment
+- policy design
+- policy development
+- policy evaluation
+- power bi
+- practical problem-solving
+- problem solving
+- problem-based learning
+- project management
+- python
+- qlik
+- qualitative research
+- quantitative methods
+- quantitative research
+- questionnaire design
+- r
+- random sampling
+- randomized experiments
+- regression
+- relational database model
+- report production
+- report writing
+- research methods
+- rhetorical skills
+- sample size determination
+- sampling distributions
+- sampling schemes
+- social analytics
+- social behavior analysis
+- social data science
+- socio-economic statistics
+- software design
+- software implementation
+- spatial analysis
+- spatial data transformation
+- spatial determinants of health
+- spatial modeling
+- spatial overlay techniques
+- spss
+- sql
+- statistical analysis
+- statistical approaches
+- statistical graphics
+- statistical methodology
+- statistical modeling
+- statistical techniques
+- statistics
+- structured prediction
+- supervised learning
+- survey design
+- system design
+- t-tests
+- tableau
+- technology infrastructure
+- theoretical analysis
+- time series analysis
+- understanding diverse perspectives
+- understanding social dynamics
+- understanding user behavior
+- unsupervised learning
+- web 2.0 commerce
+- web design
+- web development
+- website maintenance
+
+## Program 2
+
+**Total distinct skill labels:** 100
+
+- adaptability
+- algorithms
+- application of knowledge
+- best practice implementation
+- case study analysis
+- change management
+- chart design
+- collection management
+- communication
+- content management
+- control statements
+- critical thinking
+- critique
+- critiquing information policies
+- dashboard creation
+- data analysis
+- data definition languages
+- data gathering
+- data manipulation languages
+- data mining
+- data modeling
+- data preparation
+- data structures
+- data visualisation
+- data warehouse architecture
+- data warehousing
+- database design
+- database evaluation
+- database management
+- descriptive statistics
+- e-commerce system development
+- estimation
+- ethical practice in data visualisation
+- formal report writing
+- general management
+- human factors
+- human information processing
+- hypothesis testing
+- information access
+- information delivery
+- information literacy
+- information management
+- information organisation
+- information organization
+- information privacy
+- information process modeling
+- information retrieval
+- information security
+- information seeking behavior
+- information systems design
+- innovation
+- interaction
+- interviewing
+- leadership
+- mediated searching
+- metadata design
+- metadata implementation
+- mobile commerce
+- multimedia information systems development
+- needs analysis
+- non-parametric models
+- normal distribution
+- object-oriented programming
+- online analytical processing
+- oral presentation
+- organizational skills
+- planning
+- policy analysis
+- policy development
+- power bi
+- practical problem solving
+- probability
+- problem solving
+- project management
+- qlik
+- qualitative research
+- quantitative research
+- regression
+- relational database model
+- report writing
+- requirements analysis
+- research methods
+- rhetorical skills
+- software design
+- software implementation
+- sql
+- summarising data
+- system design
+- system modeling
+- tableau
+- understanding user needs
+- understanding user perspectives
+- unified modeling language
+- usability
+- user behavior analysis
+- visualising data
+- web 2.0 commerce
+- web design
+- web development
+- website maintenance
