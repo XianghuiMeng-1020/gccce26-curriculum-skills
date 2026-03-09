@@ -11,7 +11,7 @@ This appendix gives the exact equations used to compute each metric reported in 
 **Equation:**
 
 $$
-\text{Courses analyzed} = \bigl| \{ c : c \in \text{program} \} \bigr|
+\text{Courses analyzed} = \left| \{ c : c \in \text{program} \} \right|
 $$
 
 where each \(c\) is a course record. Equivalently, the count of course records with that program label.
@@ -25,7 +25,7 @@ where each \(c\) is a course record. Equivalently, the count of course records w
 **Equation:**
 
 $$
-\text{Total extracted skill items} = \sum_{c \in \text{program}} \Bigl( \bigl| \text{tools}(c) \bigr| + \bigl| \text{hard\_skills}(c) \bigr| + \bigl| \text{soft\_skills}(c) \bigr| \Bigr)
+\text{Total extracted skill items} = \sum_{c \in \text{program}} \left( \left| \text{tools}(c) \right| + \left| \text{hard skills}(c) \right| + \left| \text{soft skills}(c) \right| \right)
 $$
 
 ---
@@ -49,7 +49,7 @@ $$
 **Equation:**
 
 $$
-\text{Distinct extracted skill labels} = \Bigl| \bigcup_{c \in \text{program}} \bigl\{ \text{normalize}(\ell) : \ell \in \text{tools}(c) \cup \text{hard\_skills}(c) \cup \text{soft\_skills}(c) \bigr\} \Bigr|
+\text{Distinct extracted skill labels} = \left| \bigcup_{c \in \text{program}} \left\{ \text{normalize}(\ell) : \ell \in \text{tools}(c) \cup \text{hard skills}(c) \cup \text{soft skills}(c) \right\} \right|
 $$
 
 where $\text{normalize}(\ell) = \text{lowercase}(\text{strip}(\ell))$.
@@ -63,7 +63,7 @@ where $\text{normalize}(\ell) = \text{lowercase}(\text{strip}(\ell))$.
 **Equation:**
 
 $$
-\text{Singleton share (\%)} = \frac{\bigl| \{ \ell : \text{count}(\ell) = 1 \} \bigr|}{\text{Distinct extracted skill labels}} \times 100
+\text{Singleton share (\%)} = \frac{\left| \{ \ell : \text{count}(\ell) = 1 \} \right|}{\text{Distinct extracted skill labels}} \times 100
 $$
 
 with the convention that if the denominator is 0, the share is 0%.
@@ -77,7 +77,7 @@ with the convention that if the denominator is 0, the share is 0%.
 **Equation:**
 
 $$
-\text{Courses with at least one tool (\%)} = \frac{\bigl| \{ c \in \text{program} : \bigl| \text{tools}(c) \bigr| \geq 1 \} \bigr|}{\text{Courses analyzed}} \times 100
+\text{Courses with at least one tool (\%)} = \frac{\left| \{ c \in \text{program} : \left| \text{tools}(c) \right| \geq 1 \} \right|}{\text{Courses analyzed}} \times 100
 $$
 
 ---
